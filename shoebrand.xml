@@ -1,0 +1,27 @@
+﻿<shoebrand>
+  <information>
+    <brand_name>puma</brand_name>
+    <release_date>2022-02-01</release_date>
+    <shoeprice>10000</shoeprice>
+  </information>
+  <information>
+    <brand_name>NIKE</brand_name>
+    <release_date>2022-05-07</release_date>
+    <shoeprice>5000</shoeprice>
+  </information>
+  <information>
+    <brand_name>Adidas</brand_name>
+    <release_date>2022-04-10</release_date>
+    <shoeprice>7000</shoeprice>
+  </information>
+  <information>
+    <brand_name>Woodland</brand_name>
+    <release_date>2022-02-12</release_date>
+    <shoeprice>8000</shoeprice>
+  </information>
+  <information>
+    <brand_name>Fila</brand_name>
+    <release_date>2022-07-17</release_date>
+    <shoeprice>5000</shoeprice>
+  </information>
+</shoebrand>

@@ -1,0 +1,27 @@
+﻿<shop_details>
+  <information>
+    <shop_id>111</shop_id>
+    <shop_name>shoe market</shop_name>
+    <location>london</location>
+  </information>
+  <information>
+    <shop_id>222</shop_id>
+    <shop_name>shoe world</shop_name>
+    <location>london</location>
+  </information>
+  <information>
+    <shop_id>333</shop_id>
+    <shop_name>shoe shop</shop_name>
+    <location>london</location>
+  </information>
+  <information>
+    <shop_id>444</shop_id>
+    <shop_name>shoe here</shop_name>
+    <location>london</location>
+  </information>
+  <information>
+    <shop_id>555</shop_id>
+    <shop_name>shoe buyer</shop_name>
+    <location>london</location>
+  </information>
+</shop_details>

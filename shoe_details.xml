@@ -1,0 +1,27 @@
+﻿<shoe_details>
+  <information>
+    <shoetype>boots</shoetype>
+    <size>8</size>
+    <price>1000</price>
+  </information>
+  <information>
+    <shoetype>sandals</shoetype>
+    <size>6</size>
+    <price>1000</price>
+  </information>
+  <information>
+    <shoetype>pumps</shoetype>
+    <size>7</size>
+    <price>5000</price>
+  </information>
+  <information>
+    <shoetype>high heels</shoetype>
+    <size>8</size>
+    <price>10000</price>
+  </information>
+  <information>
+    <shoetype>sneakers</shoetype>
+    <size>5</size>
+    <price>1000</price>
+  </information>
+</shoe_details>

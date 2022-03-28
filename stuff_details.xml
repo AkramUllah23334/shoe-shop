@@ -1,0 +1,32 @@
+﻿<stuff_details>
+  <information>
+    <stuff_id>s111</stuff_id>
+    <stuff_name>thomas</stuff_name>
+    <location>london</location>
+    <role>manager</role>
+  </information>
+  <information>
+    <stuff_id>s111</stuff_id>
+    <stuff_name>jemes</stuff_name>
+    <location>london</location>
+    <role>supervisor</role>
+  </information>
+  <information>
+    <stuff_id>s111</stuff_id>
+    <stuff_name>rock</stuff_name>
+    <location>london</location>
+    <role>stuffboy</role>
+  </information>
+  <information>
+    <stuff_id>s111</stuff_id>
+    <stuff_name>danish</stuff_name>
+    <location>london</location>
+    <role>supplier</role>
+  </information>
+  <information>
+    <stuff_id>s111</stuff_id>
+    <stuff_name>john</stuff_name>
+    <location>london</location>
+    <role>helper</role>
+  </information>
+</stuff_details>

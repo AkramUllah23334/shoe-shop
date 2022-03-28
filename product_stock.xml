@@ -1,0 +1,32 @@
+﻿<product_stock>
+  <information>
+    <shoe_brand>Puma</shoe_brand>
+    <total_shoe_in_store>200</total_shoe_in_store>
+    <sold_item>50</sold_item>
+    <available_item>150</available_item>
+  </information>
+  <information>
+    <shoe_brand>NIKE</shoe_brand>
+    <total_shoe_in_store>300</total_shoe_in_store>
+    <sold_item>150</sold_item>
+    <available_item>150</available_item>
+  </information>
+  <information>
+    <shoe_brand>Adidas</shoe_brand>
+    <total_shoe_in_store>500</total_shoe_in_store>
+    <sold_item>250</sold_item>
+    <available_item>250</available_item>
+  </information>
+  <information>
+    <shoe_brand>Woodland</shoe_brand>
+    <total_shoe_in_store>600</total_shoe_in_store>
+    <sold_item>40</sold_item>
+    <available_item>200</available_item>
+  </information>
+  <information>
+    <shoe_brand>Fila</shoe_brand>
+    <total_shoe_in_store>100</total_shoe_in_store>
+    <sold_item>50</sold_item>
+    <available_item>50</available_item>
+  </information>
+</product_stock>
